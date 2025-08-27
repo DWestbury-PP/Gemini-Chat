@@ -1,0 +1,8 @@
+{
+  "name": "Gemini-Live-Audio",
+  "description": "Real-time voice chat with reactive visuals",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
